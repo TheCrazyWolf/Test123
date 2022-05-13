@@ -12,11 +12,7 @@ namespace ConsoleApp28
                 5,78,768,23,345,546,345
             };
 
-            for (int i = 0; i < array.Length; i++)
-            {
-                Console.WriteLine(array[i]);
-                
-            }
+
 
         }
     }
